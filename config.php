@@ -1,8 +1,8 @@
 <?
 ///RememberWeb jika tidak ada kosongkan saja
 
-$UserAgent = "xxxxxxxxx";
-$CsrfToken = "xxxxxxxxx";
-$XSRFTOKEN = "xxxxxxxxx";
-$AdDogeSession = "xxxxxxxx";
-$RememberWeb = "xxxxxxxx";
+$UserAgent = "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0";
+$CsrfToken = "lJ2PyN6P3zIIZndxO81RRgQWVcJrpViDNz5Rw5zU";
+$XSRFTOKEN = "eyJpdiI6IlZPNUtVVWVZN0syalRYK3lFSmJTWlE9PSIsInZhbHVlIjoiV042UTlKRjlcL25sWG1GWXlxNzVkekNPUzNXMTlycW1mRnp1MWo4SkxaYytGYjBVdlBacjM1cmFlUE15ZWFTRmMiLCJtYWMiOiJkYzNmMmQ4ZWY2NTA0NzQ0MGU4YjYwNGMyYmZkOWE4MjY5MjE2ZWVhNDc5NjgyZjQ0MjdmZGExNDQ0NDk2MzU5In0=";
+$AdDogeSession = "eyJpdiI6IjNrR29zd01pSElFKzJGSFkzTzNIMnc9PSIsInZhbHVlIjoidzBoOU9lSm5VVEppZUw0OGlPY1I3RElsRDg3enpQdERTTk9NdGVMYlFTTEhQcVl0b2syM25kWkJNcDRFN2pueCIsIm1hYyI6ImIzOTY4NmVhYjdjM2FhM2ZkOTZjNWQzNzIzZDU0OGY2MjczMDM2ZWI0NjE3NjVlN2IyODE1NjU2ODFiZDQwZTcifQ==";
+$RememberWeb = "";
